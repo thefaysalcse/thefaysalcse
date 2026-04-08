@@ -24,6 +24,3 @@ Hi there! I’m Faysal Hossain — a Senior Mobile & Cross-Platform Developer fr
 [![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thefaysalcse/)[![Twitter: Follow](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/thefaysalcse)[![Facebook Follow](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/thefaysalcse/)[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fsfoysal15@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
 <p align = "center">
   
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thefaysalcse&count_private=true&include_all_commits=true&show_icons=true&theme=gotham&hide_border=true" />
-</p>
