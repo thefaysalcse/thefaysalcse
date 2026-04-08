@@ -3,16 +3,16 @@
 
 Hi there! I’m Faysal Hossain — a Senior Mobile & Cross-Platform Developer from Bangladesh 🇧🇩
 
-📱 10+ years of experience building high-quality mobile applications
-⚙️ Expert in Kotlin, Java, Jetpack Compose, and modern Android architecture
-🍎 Working with Swift & iOS development alongside Android for full mobile coverage
-🌐 Experienced in Kotlin Multiplatform (KMP) for shared Android + iOS codebases
-🧠 Actively exploring AI-powered development tools and “vibe coding” workflows
-🤖 Integrating AI tools to speed up development, prototyping, and product building
-💡 Passionate about clean architecture, scalable systems, and smooth UX/UI
-🔧 Strong background in REST APIs, Firebase, Room, Hilt, and background processing
-🚀 Builder of real-world production apps and startup-ready systems
-🌍 Open to remote roles, collaborations, and innovative product teams in 2026
+- 📱 10+ years of experience building high-quality mobile applications
+- ⚙️ Expert in Kotlin, Java, Jetpack Compose, and modern Android architecture
+- 🍎 Working with Swift & iOS development alongside Android for full mobile coverage
+- 🌐 Experienced in Kotlin Multiplatform (KMP) for shared Android + iOS codebases
+- 🧠 Actively exploring AI-powered development tools and “vibe coding” workflows
+- 🤖 Integrating AI tools to speed up development, prototyping, and product building
+- 💡 Passionate about clean architecture, scalable systems, and smooth UX/UI
+- 🔧 Strong background in REST APIs, Firebase, Room, Hilt, and background processing
+- 🚀 Builder of real-world production apps and startup-ready systems
+- 🌍 Open to remote roles, collaborations, and innovative product teams in 2026
 
 
 **📫 Ask me anything about→**
